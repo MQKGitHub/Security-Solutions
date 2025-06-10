@@ -10,10 +10,10 @@ This module introduces key tools and concepts used in defending networks. You’
 
 | Topic Name                   | Status         | Link                                                                        |
 |------------------------------|----------------|-----------------------------------------------------------------------------|
-| Introduction to SIEM           | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Introduction-to-SIEM/)       |
-| Firewall Fundamentals          | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Firewall-Fundamentals/)       |
-| IDS Fundamentals               | 🟡 In Progress | [View Write-Up]() |
-| Vulnerability Scanner Overview | ❌ Not Started | [View Write-Up]() |
+| Introduction to SIEM           | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Introduction-to-SIEM/)           |
+| Firewall Fundamentals          | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Firewall-Fundamentals/)          |
+| IDS Fundamentals               | 🟡 In Progress | [View Write-Up](https://github.com/MQKGitHub/IDS-Fundamentals/)               |
+| Vulnerability Scanner Overview | ❌ Not Started | [View Write-Up](https://github.com/MQKGitHub/Vulnerability-Scanner-Overview/) |
 
 ---
 
