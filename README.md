@@ -11,8 +11,8 @@ This module introduces key tools and concepts used in defending networks. You’
 | Topic Name                   | Status         | Link                                                                        |
 |------------------------------|----------------|-----------------------------------------------------------------------------|
 | Introduction to SIEM           | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Introduction-to-SIEM/)       |
-| Firewall Fundamentals          | 🟡 In Progress | [View Write-Up](https://github.com/MQKGitHub/Firewall-Fundamentals)       |
-| IDS Fundamentals               | ❌ Not Started | [View Write-Up]() |
+| Firewall Fundamentals          | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Firewall-Fundamentals/)       |
+| IDS Fundamentals               | 🟡 In Progress | [View Write-Up]() |
 | Vulnerability Scanner Overview | ❌ Not Started | [View Write-Up]() |
 
 ---
@@ -20,12 +20,12 @@ This module introduces key tools and concepts used in defending networks. You’
 ### 🧠 Overview
 
 ### 📊 Introduction to SIEM  
-- coming soon...
-- coming soon...
+- Learned what a SIEM is, how it ingests logs, and how correlation rules trigger alerts based on suspicious behaviour.  
+- Explored dashboards, log sources, and how SOC analysts use SIEMs to detect, investigate, and respond to real-time threats.
 
 ### 🔥 Firewall Fundamentals  
-- coming soon...
-- coming soon...
+- Learned how firewalls control network traffic using rules, covering types like stateless, stateful, proxy, and next-generation firewalls.  
+- Practised creating and testing rules with Windows Defender Firewall and Linux `ufw`, gaining hands-on experience in securing system boundaries.
 
 ### 🛡️ IDS Fundamentals  
 - coming soon...
