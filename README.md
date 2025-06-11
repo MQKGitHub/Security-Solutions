@@ -13,7 +13,7 @@ This module introduces key tools and concepts used in defending networks. You’
 | Introduction to SIEM           | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Introduction-to-SIEM/)           |
 | Firewall Fundamentals          | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Firewall-Fundamentals/)          |
 | IDS Fundamentals               | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/IDS-Fundamentals/)               |
-| Vulnerability Scanner Overview | 🟡 In Progress | [View Write-Up](https://github.com/MQKGitHub/Vulnerability-Scanner-Overview/) |
+| Vulnerability Scanner Overview | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Vulnerability-Scanner-Overview/) |
 
 ---
 
@@ -32,5 +32,5 @@ This module introduces key tools and concepts used in defending networks. You’
 - Gained hands-on experience creating and testing custom Snort rules on live and recorded network traffic.
 
 ### 🕵️ Vulnerability Scanner Overview  
-- coming soon...
-- coming soon...
+- Explored different types of vulnerability scans (internal, external, authenticated, unauthenticated) and how they identify weaknesses in systems.  
+- Gained hands-on experience using OpenVAS to perform scans, interpret CVSS scores, and generate vulnerability reports for remediation planning. 
