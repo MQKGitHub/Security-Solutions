@@ -12,8 +12,8 @@ This module introduces key tools and concepts used in defending networks. You’
 |------------------------------|----------------|-----------------------------------------------------------------------------|
 | Introduction to SIEM           | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Introduction-to-SIEM/)           |
 | Firewall Fundamentals          | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Firewall-Fundamentals/)          |
-| IDS Fundamentals               | 🟡 In Progress | [View Write-Up](https://github.com/MQKGitHub/IDS-Fundamentals/)               |
-| Vulnerability Scanner Overview | ❌ Not Started | [View Write-Up](https://github.com/MQKGitHub/Vulnerability-Scanner-Overview/) |
+| IDS Fundamentals               | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/IDS-Fundamentals/)               |
+| Vulnerability Scanner Overview | 🟡 In Progress | [View Write-Up](https://github.com/MQKGitHub/Vulnerability-Scanner-Overview/) |
 
 ---
 
@@ -28,8 +28,8 @@ This module introduces key tools and concepts used in defending networks. You’
 - Practised creating and testing rules with Windows Defender Firewall and Linux `ufw`, gaining hands-on experience in securing system boundaries.
 
 ### 🛡️ IDS Fundamentals  
-- coming soon...
-- coming soon...
+- Learned how IDS tools like Snort monitor traffic for suspicious behaviour using signature and anomaly-based detection.  
+- Gained hands-on experience creating and testing custom Snort rules on live and recorded network traffic.
 
 ### 🕵️ Vulnerability Scanner Overview  
 - coming soon...
